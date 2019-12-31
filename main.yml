@@ -1,0 +1,6 @@
+- name: Run ansible configuration
+  hosts: all
+  gather_facts: yes
+
+  roles:
+    - ansible_role_stub

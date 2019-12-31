@@ -1,0 +1,5 @@
+- src:     git@github.com:pavelkim/ansible_role_stub.git
+  name:    ansible_role_stub
+  scm:     git
+  version: 1.0.0
+
